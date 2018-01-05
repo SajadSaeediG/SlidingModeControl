@@ -1,10 +1,13 @@
+# Sliding Mode Control: classic and optimal
+
 Sliding mode control (SMC) is an effective nonlinear control method used in many applications [1]. This repository is a SIMULINK simulation of SMC with classic [1] and optimized methods as described in [2].
 
 ## How to Run
-* Open OptimalSlidingMode.mdl with SIMULINK
+* Open **OptimalSlidingMode.mdl** with SIMULINK
 * Choose the simulation method manually, using the manual switch
 * Run the simulation
-* Run PlotResults.m to plot the results for your report
+* Run **PlotResults.m** to plot the results for your report
+
 Repeat this process with different methods, by changing the switch, to see the differences.
 
 
