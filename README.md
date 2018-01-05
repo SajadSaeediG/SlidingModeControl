@@ -1,4 +1,4 @@
-Sliding mode control (SMC) is an effective nonlinear control method used in many applications [1]. This repository is a SIMULINK simulation of SMC with classic [1] and optimized method as described in [2].
+Sliding mode control (SMC) is an effective nonlinear control method used in many applications [1]. This repository is a SIMULINK simulation of SMC with classic [1] and optimized methods as described in [2].
 
 ## How to Run
 * Open OptimalSlidingMode.mdl with SIMULINK
